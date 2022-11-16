@@ -1,0 +1,48 @@
+[    { "question":"What is the Capital of India?",
+      "choices":["Mumbai","Chennai","Pune","New Delhi"],
+      "correct_ans":"New Delhi"
+    },  
+    { "question":"Who was India's first Prime Minister?",
+      "choices":["Jawaharlal Nehru","Indira Gandhi","Mahatman Gandhi","Vallabhbhai Patel"],
+      "correct_ans":"Jawaharlal Nehru"
+    },
+  
+    { "question":"In Python, a class is ___________ for a concrete object.",
+      "choices":["a blueprint","an instance","a nuisance","a distraction"],
+      "correct_ans":"a blueprint"
+    },
+  
+    { "question":"Who developed Python Programming Language?",
+      "choices":["Wick van Rossum","Rasmus Lerdorf","Guido van Rossum","Niene Stom"],
+      "correct_ans":"Guido van Rossum"
+    },
+  
+    { "question":"Which of the following is the correct extension of the Python file?",
+      "choices":[".python",".p",".py",".p"],
+      "correct_ans":".py"
+    },
+  
+    { "question":"Which of the following symbol is used to give single-line comments in Python?",
+      "choices":["//","#","!","/*"],
+      "correct_ans":"#"
+    },
+  
+    { "question":"What will be the output of the len([hello,2, 4, 6])?",
+      "choices":["Error","6","4","3"],
+      "correct_ans":"4"
+    },
+    { "question":"Which of the following is used to define a block of code in Python language?",
+      "choices":["Indentation","Key","Brackets","All of the mentioned"],
+      "correct_ans":"Indentation"
+    },
+    { "question":"Which keyword is used for function in Python language?",
+      "choices":["function","def","class","None of above"],
+      "correct_ans":"def"
+    },
+  
+    { "question":"Which keyword is used for class in Python language?",
+      "choices":["function","def","class","None of above"],
+      "correct_ans":"class"
+    }
+  
+]
